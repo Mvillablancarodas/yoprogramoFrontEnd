@@ -1,0 +1,20 @@
+.img.perfil{
+    align-content: center;
+    border-radius: 40%;
+}
+.imagendeARGprograma{
+    background-color:#a1b5cb;
+}
+#logoAP{
+    width: 150px;
+}
+.container-fluid{
+    float:right;
+    margin-top:25px;
+}
+#redessociales{
+    background-color: rgb(17, 219, 44);
+    width:"30";
+    height:"25";
+
+}
